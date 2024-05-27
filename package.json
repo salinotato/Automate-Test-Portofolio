@@ -1,0 +1,15 @@
+{
+  "name": "tatsu-work-portofolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test-web.cy.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.8.0"
+  }
+}
